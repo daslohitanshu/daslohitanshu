@@ -2,12 +2,9 @@
 
 <p align="center">
   💡 <strong>Crafting Interactive Web Experiences & Scalable Java Solutions</strong><br>
-  <strong>@daslohitanshu</strong>
+
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="GitHub Banner"/>
-</p>
 
 ---
 
