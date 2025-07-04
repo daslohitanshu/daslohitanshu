@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Lohitanshu Das
+<h1 align="center">👋 Hi, I'm Lohitanshu Das</h1>
 
-💡 **Crafting Interactive Web Experiences & Scalable Java Solutions**  
-**@daslohitanshu**
+<p align="center">
+  💡 <strong>Crafting Interactive Web Experiences & Scalable Java Solutions</strong><br>
+  <strong>@daslohitanshu</strong>
+</p>
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="GitHub Banner"/>
+</p>
 
 ---
 
@@ -13,8 +18,11 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link-here)  
-*(Add your LinkedIn link above)*
+<p>
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -29,7 +37,7 @@
 
 ---
 
-## 📌 GitHub Stats (Optional)
+## 📌 GitHub Stats
 
 ![Lohitanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daslohitanshu&show_icons=true&theme=radical)
 
