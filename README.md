@@ -3,7 +3,6 @@
 💡 **Crafting Interactive Web Experiences & Scalable Java Solutions**  
 **@daslohitanshu**
 
-![Profile Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub) <!-- Optional: Replace with your banner image URL -->
 
 ---
 
