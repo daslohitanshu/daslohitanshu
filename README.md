@@ -1,16 +1,55 @@
-## Hi there 👋
+# 📧 daslohitanshu@gmail.com
 
-<!--
-**daslohitanshu/daslohitanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Lohitanshu Das
 
-Here are some ideas to get you started:
+**Skills:** Core Java | HTML | CSS | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a passionate and driven developer with a solid foundation in **Core Java**, and strong command over **HTML, CSS, and JavaScript** for building responsive and user-friendly web applications. I love writing clean code, solving real-world problems, and continuously learning new technologies to expand my skill set.
+
+---
+
+## 🔧 Technical Skills
+
+- **Languages:** Core Java, JavaScript
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools & IDEs:** VS Code, Eclipse
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Projects
+
+Here are a few highlights of the kind of work I do:
+
+### 🔹 Java Projects
+- **Student Management System** – Console-based application using Core Java OOPs concepts.
+- **Simple ATM Interface** – Java project with login, deposit, withdraw features.
+
+### 🔹 Web Projects
+- **Personal Portfolio Website** – Built using HTML, CSS, and vanilla JavaScript.
+- **Responsive Landing Page** – Designed with CSS Flexbox and Grid for mobile-first design.
+
+---
+
+## 🚀 Goals
+
+- Master backend technologies like Spring Boot.
+- Build full-stack applications.
+- Contribute to open-source projects.
+
+---
+
+## 📫 Contact
+
+📧 **daslohitanshu@gmail.com**  
+🌐 *(Add portfolio or LinkedIn link here if available)*
+
+---
+
+## 📌 Motto
+
+> "Write code that speaks louder than words."
