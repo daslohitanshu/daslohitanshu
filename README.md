@@ -1,55 +1,46 @@
-# 📧 daslohitanshu@gmail.com
+# 👋 Hi, I'm Lohitanshu Das
 
-# 👨‍💻 Lohitanshu Das
+💡 **Crafting Interactive Web Experiences & Scalable Java Solutions**  
+**@daslohitanshu**
 
-**Skills:** Core Java | HTML | CSS | JavaScript
-
----
-
-## 🧠 About Me
-
-I'm a passionate and driven developer with a solid foundation in **Core Java**, and strong command over **HTML, CSS, and JavaScript** for building responsive and user-friendly web applications. I love writing clean code, solving real-world problems, and continuously learning new technologies to expand my skill set.
+![Profile Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub) <!-- Optional: Replace with your banner image URL -->
 
 ---
 
-## 🔧 Technical Skills
-
-- **Languages:** Core Java, JavaScript
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools & IDEs:** VS Code, Eclipse
-- **Version Control:** Git & GitHub
+🌱 I’m currently working on **Core Java**, **HTML**, **CSS**, and **JavaScript**  
+📫 How to reach me: **daslohitanshu@gmail.com**  
+🐛 **Fun fact:** JavaScript was created in just 10 days, yet it's everywhere now!
 
 ---
 
-## 📁 Projects
-
-Here are a few highlights of the kind of work I do:
-
-### 🔹 Java Projects
-- **Student Management System** – Console-based application using Core Java OOPs concepts.
-- **Simple ATM Interface** – Java project with login, deposit, withdraw features.
-
-### 🔹 Web Projects
-- **Personal Portfolio Website** – Built using HTML, CSS, and vanilla JavaScript.
-- **Responsive Landing Page** – Designed with CSS Flexbox and Grid for mobile-first design.
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link-here)  
+*(Add your LinkedIn link above)*
 
 ---
 
-## 🚀 Goals
+## 🚀 Languages and Tools
 
-- Master backend technologies like Spring Boot.
-- Build full-stack applications.
-- Contribute to open-source projects.
-
----
-
-## 📫 Contact
-
-📧 **daslohitanshu@gmail.com**  
-🌐 *(Add portfolio or LinkedIn link here if available)*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📌 Motto
+## 📌 GitHub Stats (Optional)
 
-> "Write code that speaks louder than words."
+![Lohitanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daslohitanshu&show_icons=true&theme=radical)
+
+---
+
+## 🔗 More
+
+📂 I'm building exciting projects, learning backend development next, and love to collaborate!  
+🔍 Check out my repos for Core Java exercises and web projects.
+
+---
+
+> ✨ "Write code that speaks louder than words." – Lohitanshu Das
